@@ -8,7 +8,7 @@ Si todo esta correcto te saldra la pestaña de inicio del juego si no intenta co
 =============
 ### Menu
 Una vez ejecutado el archivo correctamente estaras en la pagina de incio, en donde encontraras 3 opciones:
-#### **- Play:** La opcion de iniciar el juego 
+#### *- Play:* La opcion de iniciar el juego 
 #### **- Instrucciones:** Es la opcion en donde te indica el objetivo del juego y la jugabilidad de este
 #### **- Salir:** La manera de terminar y parar la ejecución del programa
 
